@@ -6,3 +6,5 @@ in this project, i applied:
 3. Javascript
 4. Git && Github
 5. Regular Expression
+
+A live demo of the project is found at https://abdelrahman-gado.github.io/regex-form/
